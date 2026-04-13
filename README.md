@@ -20,3 +20,10 @@ This repository is my CIS 410: Cybersecurity Automation portfolio. In this cours
 ## Fun Fact
 
 I like to work on cars, coach football, and eat.
+## My Week 2 Infrastructure
+
+Runner VM: tre-runner
+Runner IP: 10.129.3.249
+
+Pipeline status:
+[![Hello Pipeline](https://github.com/YOUR-USERNAME/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml/badge.svg)](https://github.com/YOUR-USERNAME/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml)
